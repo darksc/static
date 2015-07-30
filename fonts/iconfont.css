@@ -16,8 +16,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 .icon-youjian:before { content: "\f0138"; }
+.icon-xiangyou:before { content: "\f016d"; }
+.icon-xiangzuo:before { content: "\f016e"; }
 .icon-xiangshang:before { content: "\f016f"; }
+.icon-xiangxia:before { content: "\f0170"; }
 .icon-xinlangweibo:before { content: "\f01af"; }
 .icon-dingyue:before { content: "\f01bc"; }
 .icon-qq:before { content: "\f01c7"; }
 .icon-github:before { content: "\f01ca"; }
+.icon-weixin:before { content: "\e7f0"; }
